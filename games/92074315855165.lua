@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/snovvvvy/VapeToObsidian/main/games/5985232436.lua", true))()

@@ -1,9 +1,5 @@
 return {
 	{
-		Name = "DOORS",
-		Status = "🟢"
-	},
-	{
 		Name = "PARRY!!",
 		Status = "🟢"
 	},

@@ -11,7 +11,7 @@ local function getScript(placeId)
 
 	success, result = pcall(function()
 		return game:HttpGet(
-			"https://raw.githubusercontent.com/snovvvvy/VapeToObsidian/main/games/universal.lua",
+			"https://raw.githubusercontent.com/snovvvvy/VapeToObsidian/main/universal.lua",
 			true
 		)
 	end)
